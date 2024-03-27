@@ -20,6 +20,9 @@ update
 
 ![image](https://github.com/Suraz28/CRUD-operations/assets/82082451/4048e91c-808f-4ea8-8fae-cb9908ac8de1)
 
+![image](https://github.com/Suraz28/CRUD-operations/assets/82082451/9820dc91-7830-45bb-9894-d2815d6ae8fc)
+
+
 
 
 
