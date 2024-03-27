@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "name": "AdminGPON",
+        "role": "25",
+        "age": "250",
+        "address": "this is ADMINGPON",
+        "id": "98d1"
+      },
+      {
+        "name": "React Javascript",
+        "role": "28",
+        "age": "4",
+        "address": "Hello!, this is React js",
+        "id": "c51f"
+      },
+      {
+        "id": "69d1",
+        "name": "Flickering Thoughts",
+        "role": "30",
+        "age": "6",
+        "address": "flickering thoughts"
+      }
+    ]
+  }
